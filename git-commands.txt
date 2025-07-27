@@ -1,0 +1,12 @@
+
+
+git init-----------------> Move ordinary directory into git-vcs-operation(which manage and tracked code like Author,Date,code etc)
+git status
+git add (file name) -----> go to staged
+git rm --cached (file name)--->go to ubtracked
+git commit -m "any message" (file name) ------> go to tracked
+git restore (file name)-----> remove file restored if it is in tracked by git
+
+
+
+
